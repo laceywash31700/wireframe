@@ -1,0 +1,44 @@
+body {
+    background-color: wheat;
+}
+
+header {
+    background-color: white;
+    height: 70px;
+
+}
+
+#list {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+li {
+    display: inline;
+    margin: 40px;
+    color: azure;
+}
+
+#logo {
+    display: inline;
+}
+
+#main-image {
+    display: flex;
+    justify-content: center;
+}
+
+#pawn-image {
+    display: flex;
+    justify-content: center;
+}
+
+.featured-section {}
+
+#featured-article {}
+
+#button {}
+
+#end-footer {}
